@@ -6,5 +6,5 @@ public class Calculator {
 			return "POSITIVE";
 		else
 			return "NEGATIVE";
-	}
+	} 
 } 
